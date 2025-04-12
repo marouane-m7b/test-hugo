@@ -1,0 +1,5 @@
+<ul>
+    {{ range first 10 (where .Site.RegularPages "Type" "in" (slice "actualites" "analyses" "moments-forts")) }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>

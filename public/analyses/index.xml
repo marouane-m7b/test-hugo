@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analyses on Le Blog du Football</title>
+    <link>http://localhost:1313/analyses/</link>
+    <description>Recent content in Analyses on Le Blog du Football</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 12 Apr 2025 15:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/analyses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyse : La Tactique de Mbappé en 2025</title>
+      <link>http://localhost:1313/analyses/tactique-de-mbappe-2025/</link>
+      <pubDate>Sat, 12 Apr 2025 15:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/analyses/tactique-de-mbappe-2025/</guid>
+      <description>&lt;h2 id=&#34;comment-mbappé-domine-le-terrain-en-2025&#34;&gt;Comment Mbappé Domine le Terrain en 2025&lt;/h2&gt;&#xA;&lt;p&gt;Kylian Mbappé continue d’évoluer et de s’imposer comme l’un des meilleurs joueurs du monde. En 2025, sa tactique sur le terrain est un mélange de vitesse, d’intelligence et de précision.&lt;/p&gt;&#xA;&lt;h3 id=&#34;points-forts&#34;&gt;Points Forts&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vitesse Explosive&lt;/strong&gt; : Mbappé utilise sa vitesse pour déborder les défenseurs.&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/mbappe-sprint.jpg&#34; alt=&#34;Mbappé Sprint&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Positionnement&lt;/strong&gt; : Il se place souvent entre les lignes pour créer des opportunités.&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/mbappe-positioning-diagram.png&#34; alt=&#34;Mbappé Positioning&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Finition&lt;/strong&gt; : Sa capacité à marquer dans des angles difficiles est impressionnante.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

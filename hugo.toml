@@ -1,8 +1,23 @@
-baseURL = 'http://example.org/'  # Update this later if deploying
-languageCode = 'fr-fr'  # Set language to French
+baseURL = 'http://example.org/'
+languageCode = 'fr-fr'
 title = 'Le Blog du Football'
 theme = 'ananke'
+pagination.pagerSize = 10
 
 [params]
   description = "Un blog dédié aux passionnés de football : actualités, analyses, et moments forts des matchs !"
-  favicon = "/images/favicon.ico"  # Optional: Add a favicon later
+  favicon = "/images/favicon.ico"
+
+[menu]
+  [[menu.main]]
+    name = "Actualités"
+    url = "/actualites/"
+    weight = 1
+  [[menu.main]]
+    name = "Analyses"
+    url = "/analyses/"
+    weight = 2
+  [[menu.main]]
+    name = "Moments Forts"
+    url = "/moments-forts/"
+    weight = 3
