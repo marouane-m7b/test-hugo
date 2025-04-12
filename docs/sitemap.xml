@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://marouane-m7b.github.io/test-hugo/</loc>
     <lastmod>2025-04-12T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://marouane-m7b.github.io/test-hugo/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://marouane-m7b.github.io/test-hugo/tags/</loc>
   </url>
 </urlset>
