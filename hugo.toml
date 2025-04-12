@@ -12,13 +12,13 @@ publishDir = 'docs'
 [menu]
   [[menu.main]]
     name = "Actualités"
-    url = "/actualites/"
+    url = "/actualites"  # Remove the trailing slash
     weight = 1
   [[menu.main]]
     name = "Analyses"
-    url = "/analyses/"
+    url = "/analyses"  # Remove the trailing slash
     weight = 2
   [[menu.main]]
     name = "Moments Forts"
-    url = "/moments-forts/"
+    url = "/moments-forts"  # Remove the trailing slash
     weight = 3
