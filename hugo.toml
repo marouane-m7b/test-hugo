@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'  # Update this later if deploying
+languageCode = 'fr-fr'  # Set language to French
+title = 'Le Blog du Football'
+theme = 'ananke'
+
+[params]
+  description = "Un blog dédié aux passionnés de football : actualités, analyses, et moments forts des matchs !"
+  favicon = "/images/favicon.ico"  # Optional: Add a favicon later
