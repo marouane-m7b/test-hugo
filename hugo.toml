@@ -3,6 +3,7 @@ languageCode = 'fr-fr'
 title = 'Le Blog du Football'
 theme = 'ananke'
 pagination.pagerSize = 10
+publishDir = 'docs'
 
 [params]
   description = "Un blog dédié aux passionnés de football : actualités, analyses, et moments forts des matchs !"
