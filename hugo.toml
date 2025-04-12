@@ -8,7 +8,8 @@ publishDir = 'docs'
 [params]
   description = "Un blog dédié aux passionnés de football : actualités, analyses, et moments forts des matchs !"
   favicon = "/images/favicon.ico"
-
+[taxonomies]
+  category = "categories"
 [menu]
   [[menu.main]]
     name = "Actualités"
