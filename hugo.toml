@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://marouane-m7b.github.io/test-hugo/'
 languageCode = 'fr-fr'
 title = 'Le Blog du Football'
 theme = 'ananke'
